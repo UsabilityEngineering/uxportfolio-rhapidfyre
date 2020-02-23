@@ -3,7 +3,7 @@
  
  
  ## Overview
- ![Zoll X Monitor](../zoll_x.jpg)
+ ![Zoll X Monitor](https://github.com/UsabilityEngineering/uxportfolio-rhapidfyre/blob/master/assets/zoll_x.jpg)
   The first bit of technology that is used in everyday life is the Zoll X Series Monitor, which is a vital sign monitor and analysis tool for Emergency Medical Services (EMS). Chances are, if you've seen an ambulance work on a loved one, a friend or a neighbor, you've witnessed the Zoll X in use. Within this journal entry, we will be examining the key aspects of usability:
   - *Effective*: How well does the technology solve the problem? (A problem is something such as changing your brake pads)
   - *Efficient*: How easily does the technology solve the problem?
@@ -15,7 +15,7 @@
   - *Error Tolerant*: If a mistake is made can the technology easily overcome or present the issue to the user?
  
  ## What it does right
- ![Pediatric Patient](../pediatric.jpg)
+ ![Pediatric Patient](https://github.com/UsabilityEngineering/uxportfolio-rhapidfyre/blob/master/assets/pediatric.jpg)
   This monitor is a highly sophisticated device used for analysing heart rythyms, blood pressure, pulse rate, oxygen saturation, carbonmonoxide level monitoring, and more. The device also has the ability to administer manual defribillation of the heart, pacing, and can even monitor and defibrillate pediatric patients.
   
   ##### #1: Usefulness
@@ -28,7 +28,7 @@
   While the Zoll X Monitor is not very learnable, it's extremely memorable due to the minimal interaction it requires to navigate the system. Once a user is familiar with how to put in user information, navigate menus to obtain the settings they need or set up defibrilation, the method to get to these becomes rather simple. Only a short number of menus will take you where you need to go, and the buttons use a universal language to everyone: Pictures. You are no more than 2-3 button presses away from the information you need to get the monitor working. The human brain easily remembers not only pictures, but simplicity. The easier something is to access, the easier it is to remember.
   
   ## What it does wrong
- ![Not User Friendly](../complicated.jpg)
+ ![Not User Friendly](https://github.com/UsabilityEngineering/uxportfolio-rhapidfyre/blob/master/assets/complicated.jpg)
   Many paramedics and EMTs-alike constantly fight with the device for simple tasks such as putting in names or transmitting the results to the hospital. In the EMS sector, Paramedics and EMTs are required to delay by stopping and taking a minute or two out of patient care & treatment to input information into the system in an ancient manner. A minute or two or messing with technology can be detrimental to the patient's health or transport time. Another common problem with this device is network connectivity.
   
   ##### #1: Learnability
