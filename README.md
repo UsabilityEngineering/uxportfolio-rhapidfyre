@@ -10,4 +10,5 @@ I am Mike Harris, a now (yay) senior of Computer Science at CSU Chico. I'm a ful
 ## UX Journal
 
 * [Journal Entry #1](journal-01/)
-* [Journal Entry #2](journal02/)
+* [Journal Entry #2](journal02/)  
+* [Journal Entry #3](journal03/)
